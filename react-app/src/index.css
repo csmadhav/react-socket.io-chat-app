@@ -1,0 +1,39 @@
+.navBarText {
+  margin-left: 10px !important;
+  font-size: 17px;
+  margin-top: 13px;
+}
+.chat-list {
+  height: 74vh;
+  background-color: white;
+}
+.message-list {
+  height: 68vh;
+  overflow-y: scroll;
+}
+.user-list {
+  height: 300px;
+  overflow-y: scroll;
+}
+.message {
+  margin-top: 10px;
+}
+.rce-mbox-text {
+  padding: 3px;
+}
+.rce-mbox {
+  background-color: antiquewhite !important;
+}
+.rce-mbox-right-notch {
+  fill: aliceblue !important;
+}
+.rce-mbox-left-notch {
+  fill: antiquewhite !important;
+}
+.rce-mbox-right {
+  background-color: aliceblue !important;
+}
+
+body {
+  background-color: #e6e6e6;
+}
