@@ -9,7 +9,8 @@
 }
 .message-list {
   height: 68vh;
-  overflow-y: scroll;
+  border-left: 2px solid #f4f4f4;
+  border-right: 2px solid #f4f4f4;
 }
 .user-list {
   height: 300px;
@@ -33,7 +34,9 @@
 .rce-mbox-right {
   background-color: aliceblue !important;
 }
-
 body {
   background-color: #e6e6e6;
+}
+.form-group{
+  border: 2px solid #f4f4f4;
 }
