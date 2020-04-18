@@ -3,15 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
-    "react": "^16.6.3",
+    "axios": "^0.18.1",
+    "fsevents": "^2.1.2",
+    "react": "^16.13.1",
     "react-app-env": "^1.2.3",
     "react-bootstrap": "^0.32.4",
-    "react-chat-elements": "^10.1.1",
-    "react-dom": "^16.6.3",
-    "react-notifications": "^1.4.3",
-    "react-scripts": "2.1.1",
-    "socket.io-client": "^2.1.1"
+    "react-chat-elements": "^10.8.0",
+    "react-dom": "^16.13.1",
+    "react-notifications": "^1.6.0",
+    "react-scripts": "^3.4.1",
+    "socket.io-client": "^2.3.0"
   },
   "scripts": {
     "start": "react-app-env start",
@@ -29,9 +30,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "enzyme": "^3.7.0",
-    "enzyme-adapter-react-15": "^1.2.0",
-    "enzyme-adapter-react-16": "^1.7.0",
-    "jest-enzyme": "^7.0.1"
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-15": "^1.4.1",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest-enzyme": "^7.1.2"
   }
 }
