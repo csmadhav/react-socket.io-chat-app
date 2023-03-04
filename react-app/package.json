@@ -11,7 +11,7 @@
     "react-chat-elements": "^10.8.0",
     "react-dom": "^16.13.1",
     "react-notifications": "^1.6.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
